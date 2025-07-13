@@ -5,9 +5,13 @@
 This Project give us clear analysis of following questions:
 
  -How do sales vary by hour of the day?
+ 
  -Are there any peak times for sales activity?
+ 
  -How do sales vary across different store locations?
+ 
  -Which products are the best-selling in terms of quantity and revenue?
+ 
 
 Steps Followed:
 
